@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(126, 123, 123, 0.74);
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+h1{
+font-family: 'Concert One', cursive;
+}
+#header{
+    background-color: rgb(97, 97, 97);
+    margin-top: -20px;
+}
+.footer{
+    background-image: linear-gradient(red,black);
+    line-height: 30px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+}
